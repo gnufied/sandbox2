@@ -1,4 +1,4 @@
-module github.com/gnufied/sandbox2
+module github.com/gnufied/sandbox2/lib/spec/sandbox2
 
 go 1.13
 
